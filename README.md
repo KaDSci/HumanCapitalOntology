@@ -12,6 +12,6 @@ HCO provides representation of OPM Nature of Action (NOA) codes that are used to
 
 HCO is open source, and will be following a contribution structure similar to the [Common Core Ontologies](https://github.com/CommonCoreOntology/CommonCoreOntologies)
 
-For bug fixes, developed suggestions for improvement, or minor updates, please open an issue on the [issue tracker](https://github.com/KaDSci/HumanCapitalOntology/issues) following the corresponding template found [here](https://github.com/KaDSci/HumanCapitalOntology/).
+For bug fixes, developed suggestions for improvement, or minor updates, please open an issue on the [issue tracker](https://github.com/KaDSci/HumanCapitalOntology/issues) following the corresponding template found [here](https://github.com/KaDSci/HumanCapitalOntology/tree/main/templates).
 
-For more open-ended discussion, general questions, or compliments, please navigate to the discussion board here.
+For more open-ended discussion, general questions, or compliments, please navigate to the discussion board [here](https://github.com/KaDSci/HumanCapitalOntology/discussions).
