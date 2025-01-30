@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="https://www.commoncoreontologies.org/2024-11-06/CommonCoreOntologiesMerged" uri="Imports/CommonCoreOntologiesMerged.ttl"/>
     <uri id="Imports Wizard Entry" name="https://github.com/jonathanvajda/2025-01-17/cco-d-acts" uri="Imports/cco-d-acts.ttl"/>
     <uri id="Imports Wizard Entry" name="https://github.com/jonathanvajda/2025-01-17/cco-d-acts" uri="cco-d-acts.ttl"/>
     <uri id="Imports Wizard Entry" name="https://www.commoncoreontologies.org/2024-11-06/CommonCoreOntologiesMerged" uri="CommonCoreOntologiesMerged.ttl"/>

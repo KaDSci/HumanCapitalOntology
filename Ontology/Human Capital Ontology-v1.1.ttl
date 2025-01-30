@@ -14,7 +14,8 @@
 
 <http://KadSciOntologies/HCO-Ontology> rdf:type owl:Ontology ;
                                         owl:versionIRI <http://KadSciOntologies/HCO-Ontology/1.1> ;
-                                        owl:imports <https://github.com/jonathanvajda/2025-01-17/cco-d-acts> ;
+                                        owl:imports <https://github.com/jonathanvajda/2025-01-17/cco-d-acts> ,
+                                                    <https://www.commoncoreontologies.org/2024-11-06/CommonCoreOntologiesMerged> ;
                                         dc:contributor "Maxwell Farrington"@en ,
                                                        "John Gugliotti" ;
                                         dcterms:creator "Shane Babcock"@en ;
@@ -24623,22 +24624,22 @@ https://www.bls.gov/oes/current/oes191023.htm"""@en ;
 [ owl:maxQualifiedCardinality "3"^^xsd:nonNegativeInteger
  ] .
 
+[ owl:maxQualifiedCardinality "3"^^xsd:nonNegativeInteger
+ ] .
+
+[ owl:maxQualifiedCardinality "3"^^xsd:nonNegativeInteger
+ ] .
+
 [ owl:maxQualifiedCardinality "4"^^xsd:nonNegativeInteger
  ] .
 
-[ owl:maxQualifiedCardinality "3"^^xsd:nonNegativeInteger
- ] .
-
-[ owl:maxQualifiedCardinality "3"^^xsd:nonNegativeInteger
+[ owl:maxQualifiedCardinality "4"^^xsd:nonNegativeInteger
  ] .
 
 [ owl:maxQualifiedCardinality "4"^^xsd:nonNegativeInteger
  ] .
 
 [ owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger
- ] .
-
-[ owl:maxQualifiedCardinality "4"^^xsd:nonNegativeInteger
  ] .
 
 #################################################################
